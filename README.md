@@ -2,10 +2,10 @@
 
 
 ## Implementation
-
+changed width, and made maze. 
 ## References
 
 ## Future Development
-
+Add Enemies 
 ## Created by
-Nathan Mishler
+Annika Eskilson
